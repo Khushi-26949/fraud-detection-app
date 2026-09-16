@@ -202,6 +202,24 @@ PDF Report   → Generated from user_history.json
 
 ---
 
+---
+
+## 📸 Preview
+
+| Login | Register |
+|---|---|
+| ![Login](screenshots/Screenshot%202026-03-08%20185502.png) | ![Register](screenshots/Screenshot%202026-03-08%20185521.png) |
+
+| PDF Report | Dashboard |
+|---|---|
+| ![PDF](screenshots/Screenshot%202026-03-08%20191806.png) | ![Dashboard](screenshots/Screenshot%202026-03-08%20191817.png) |
+
+| Admin Panel |
+|---|
+| ![Admin](screenshots/Screenshot%202026-03-08%20192001.png) |
+
+---
+
 ## 👥 Team
 
 Built as a group project for Hackathon.
