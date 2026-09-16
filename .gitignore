@@ -1,0 +1,7 @@
+﻿users.json
+user_history.json
+__pycache__/
+*.pyc
+transaction_report.pdf
+
+cleaned_fraud_dataset.xls
