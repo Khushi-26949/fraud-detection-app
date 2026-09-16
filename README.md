@@ -208,7 +208,7 @@ PDF Report   → Generated from user_history.json
 
 | Login | Register |
 |---|---|
-| ![Login](screenshots/Screenshot%202026-03-08%20185502.png) | ![Register](screenshots/Screenshot%202026-03-08%20185521.png) |
+| ![Login](screenshots/Screenshot%202026-03-08%20185502.png) | ![Fraud detection](screenshots/Screenshot%202026-03-08%20185521.png) |
 
 | PDF Report | Dashboard |
 |---|---|
