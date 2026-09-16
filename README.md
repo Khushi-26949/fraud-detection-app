@@ -206,7 +206,7 @@ PDF Report   → Generated from user_history.json
 
 ## 📸 Preview
 
-| Login | Register |
+| Login | Fraud detection |
 |---|---|
 | ![Login](screenshots/Screenshot%202026-03-08%20185502.png) | ![Fraud detection](screenshots/Screenshot%202026-03-08%20185521.png) |
 
